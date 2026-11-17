@@ -1,6 +1,3 @@
-# 🔥🔥 Wooble Social Media App  [![Twitter Follow](https://img.shields.io/twitter/follow/CharlyKeleb.svg?style=social)](https://twitter.com/CharlyKeleb)
-
-Wooble is a fully functional social media app with multiple features built with flutter and dart.
 
 Star⭐ the repo if you like what you see😉.
 
@@ -94,17 +91,3 @@ Double check install instructions for both
     - https://pub.dartlang.org/packages/firebase_auth
 - Firestore Plugin
     - https://pub.dartlang.org/packages/cloud_firestore
-
-# What's Next?
-- [] Video Calling
-- [] Reels
-- [] Sending and Uploading Videos(Video Compatibility)
-
-# Note
-  - The stories feature is ready, you can write a cloud scheduler function to auto delete stories
-    after 24hrs as cloud functions is not enabled in this project
-
-## 🤓 Author(s)
-
-**Charly Keleb
-CharlyKeleb** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
